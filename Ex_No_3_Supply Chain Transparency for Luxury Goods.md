@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-04-28 at 19 15 55_bac619f3](https://github.com/user-attachments/assets/41125f23-9cf8-4307-8848-7f69d1afdea6)# Aim:
+# Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
 The manufacturer records product creation details on-chain.
